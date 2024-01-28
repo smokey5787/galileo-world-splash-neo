@@ -1,6 +1,10 @@
 # galileo-world-splash-neo
 Splashscreen for KDE
 
+
+  GalileoNeoWorld3 should size to your screen resolution
+
+      
 GalileoNeoWorld is for 1920x1080
 
 GalileoNeoWorld2 1360x768
