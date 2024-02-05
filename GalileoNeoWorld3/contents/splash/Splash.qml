@@ -11,6 +11,6 @@
             id: neo
             source: "images/loadingneo.gif"
             anchors.fill: parent
-            fillMode: Image.PreserveAspectFit
+            fillMode: Image.AspectFit
         }
     }
